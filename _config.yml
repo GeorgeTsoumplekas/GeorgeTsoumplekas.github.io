@@ -21,7 +21,7 @@ repository               : "GeorgeTsoumplekas/GeorgeTsoumplekas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Georgios (Giorgos) Tsoumplekas"
   pronouns         : # example: "she/her"  
   bio              : "AI Researcher/Engineer at MetaMind Innovations"
