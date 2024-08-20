@@ -11,54 +11,44 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Aristotle University of Thessaloniki (AUTH), Thessaloniki, Greece, 09/2017 - 07/2023
+* Diploma in Electrical and Computer Engineering (5-year integrated BSc & MSc degree; 300 ECTS)
+  * Grade: 9.22/10 (graduated 3rd in my class of 146 students)
+  * Concentration: Electronic and Computer Engineering
+  * Relevant Coursework: Data Analysis, Optimization Techniques, Computational Intelligence, Pattern Recognition, Neural Networks - Deep Learning, Machine Learning, Time Series, Software Engineering
+  * Thesis: *“Few-Shot Learning Models for Load Forecasting in Smart Grids”* (Grade 10/10)
+
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 09/2023 - Present: **AI Researcher / Engineer**, MetaMind Innovations, Thessaloniki, Greece
+  * Working on Horizon Europe funded research projects:
+    * *REALM*: Contributing to the development of an AI-powered decentralized platform for the assessment of AI medical software
+    * *TALON*: Conducting research on few-shot object detection  in the context of Industry 5.0 applications
+    * *RAIDO*: Examining the energy-efficiency of deep-learning-based real-time object detectors
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 09/2022 - 07/2023: **Research Assistant**, Intelligent Systems & Software Engineering Lab, AUTH, Greece
+  * Carried out research in few-shot learning / meta-learning for times series forecasting
+  * Analyzed real-world data from an energy provider
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 03/2022 - 05/2022: **Analytics R&D Intern**, NET2GRID, Thessaloniki, Greece
+  * Developed Machine Learning / Deep Learning models for Peak Electricity Demand Forecasting
+  * Performed data preprocessing and feature engineering on real world data
+  * Utilized Python and libraries such as scikit-learn, TensorFlow and Keras
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Programming:** Python, Java, C/C++, Matlab, Latex, Shell, SQL
+* **Software Tools:** PyTorch, TensorFlow, Keras, scikit-learn, FastAPI, Streamlit, Git, CUDA
 
-Publications
+Conferences & Summer Schools
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+* 09/2024: 1st International Conference on AI in Healthcare (AIiH), Swansea, United Kingdom
+* 08/2023: Mediterranean Machine Learning Summer School by Google DeepMind, Thessaloniki, Greece
+* 04/2019: 11th Conference of Electrical & Computer Engineering Students, Thessaloniki, Greece			
+
+Languages
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* English (fluent)
+* French (intermediate)
+* Greek (native)
