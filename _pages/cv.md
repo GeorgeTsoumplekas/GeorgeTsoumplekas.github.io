@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-Aristotle University of Thessaloniki (AUTH), Thessaloniki, Greece, 09/2017 - 07/2023
+09/2017 - 07/2023: Aristotle University of Thessaloniki (AUTH), Thessaloniki, Greece
 * Diploma in Electrical and Computer Engineering (5-year integrated BSc & MSc degree; 300 ECTS)
   * Grade: 9.22/10 (graduated 3rd in my class of 146 students)
   * Concentration: Electronic and Computer Engineering
