@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an AI Researcher / Engineer at [MetaMind Innovations](https://metamind.gr/el/). Prior to that, I received my Diploma (MSc & BSc) from the School of Electrical and Computer Engineering Aristotle University of Thessaloniki in July, 2023. During my undergraduate studies, I was a member of the [ISSEL](https://lab.issel.ee.auth.gr/) lab, fortunate to be supervised by Prof. [Pericles Mitkas](https://www.linkedin.com/in/pericles-a-mitkas-08a23611/). My diploma thesis was on Few-Shot Learning Models for Load Forecasting in Smart Grids.
+I am an AI Researcher / Engineer at [MetaMind Innovations](https://metamind.gr/el/). Prior to that, I received my Diploma (combined BSc & MSc) from the School of Electrical and Computer Engineering Aristotle University of Thessaloniki in July, 2023. During my undergraduate studies, I was a member of the [ISSEL](https://lab.issel.ee.auth.gr/) lab, fortunate to be supervised by Prof. [Pericles Mitkas](https://www.linkedin.com/in/pericles-a-mitkas-08a23611/). My diploma thesis was on Few-Shot Learning Models for Load Forecasting in Smart Grids.
 
 I am broadly interested in machine learning and particularly in few-shot learning, meta-learning and learning with limited supervision. Recently, I have been working on few-shot object/instance detection and energy-efficient machine learning with limited data. I have also contributed to projects related to federated learning.
 
