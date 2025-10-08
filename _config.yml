@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Georgios (Giorgos) Tsoumplekas"
+title                    : "Georgios (Yorgos) Tsoumplekas"
 title_separator          : "-"
-name                     : &name "Georgios (Giorgos) Tsoumplekas"
-description              : &description "AI Researcher/Engineer at MetaMind Innovations"
+name                     : &name "Georgios (Yorgos) Tsoumplekas"
+description              : &description "Researcher at Kingston University"
 url                      : https://GeorgeTsoumplekas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "GeorgeTsoumplekas/GeorgeTsoumplekas.github.io"
@@ -22,13 +22,13 @@ repository               : "GeorgeTsoumplekas/GeorgeTsoumplekas.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpeg"
-  name             : "Georgios (Giorgos) Tsoumplekas"
+  name             : "Georgios (Yorgos) Tsoumplekas"
   pronouns         : # example: "she/her"  
-  bio              : "AI Researcher/Engineer at MetaMind Innovations"
-  location         : "Thessaloniki, Greece"
+  bio              : "Researcher at Kingston University"
+  location         : "London, UK"
   employer         : "Aristotle University of Thessaloniki"
   uri              : # URL
-  email            : "gktsoump@gmail.com" 
+  email            : "G.Tsoumplekas@kingston.ac.uk" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
