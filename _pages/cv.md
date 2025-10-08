@@ -21,7 +21,10 @@ Education
 
 Work experience
 ======
-* 09/2023 - Present: **AI Researcher / Engineer**, MetaMind Innovations, Thessaloniki, Greece
+* 10/2025 - Present: **Researcher**, Kingston University, Kingston upon Thames, United Kingdom
+  * Conducting research on video generation using diffusion models
+
+* 09/2023 - 08/2025: **AI Researcher / Engineer**, MetaMind Innovations, Thessaloniki, Greece
   * Working on Horizon Europe funded research projects:
     * *REALM*: Contributing to the development of an AI-powered decentralized platform for the assessment of AI medical software
     * *TALON*: Conducting research on few-shot object detection  in the context of Industry 5.0 applications
