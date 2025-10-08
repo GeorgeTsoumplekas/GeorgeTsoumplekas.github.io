@@ -13,7 +13,7 @@ Preprints
 Journal Publications
 ------------
 
-- **[Is it worth the energy? An in-depth study on the energy efficiency of data augmentation strategies for finetuning-based low/few-shot object detection](https://www.sciencedirect.com/science/article/pii/S1383762125001560)** <br> Vladislav Li, **Georgios Tsoumplekas**, Ilias Siniosoglou, Panagiotis Sarigiannidis, Vasileios Argyriou <br> <em> Journal of Systems Architecture </em>
+- **[Is it worth the energy? An in-depth study on the energy efficiency of data augmentation strategies for finetuning-based low/few-shot object detection](https://www.sciencedirect.com/science/article/pii/S1383762125001560)** <br> Vladislav Li, **Georgios Tsoumplekas**, Ilias Siniosoglou, Panagiotis Sarigiannidis, Vasileios Argyriou <br> <em> Journal of Systems Architecture, 2025 </em>
 - **[Few-Shot Load Forecasting Under Data Scarcity in Smart Grids: A Meta-Learning Approach](https://www.mdpi.com/1996-1073/18/3/742)** <br> **Georgios Tsoumplekas**, Christos Athanasiadis, Dimitrios Doukas, Antonios Chrysopoulos, Pericles Mitkas <br> <em> Energies, 2025 </em>
 
 Conference Publications
