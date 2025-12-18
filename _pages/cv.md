@@ -22,7 +22,7 @@ Education
 Work experience
 ======
 * 10/2025 - Present: **Researcher**, Kingston University, Kingston upon Thames, United Kingdom
-  * Conducting research on video generation using diffusion models
+  * Conducting research on multi-concept customisation of diffusion models
 
 * 09/2023 - 08/2025: **AI Researcher / Engineer**, MetaMind Innovations, Thessaloniki, Greece
   * Working on Horizon Europe funded research projects:
