@@ -26,7 +26,7 @@ Work experience
 
 * 09/2023 - 08/2025: **AI Researcher / Engineer**, MetaMind Innovations, Thessaloniki, Greece
   * Working on Horizon Europe funded research projects:
-    * (*REALM*)[https://realm-ai.eu/]: Contributing to the development of an AI-powered decentralized platform for the assessment of AI medical software
+    * (REALM)[https://realm-ai.eu/]: Contributing to the development of an AI-powered decentralized platform for the assessment of AI medical software
     * *TALON*: Conducting research on few-shot object detection  in the context of Industry 5.0 applications
     * *RAIDO*: Examining the energy-efficiency of deep-learning-based real-time object detectors
 
