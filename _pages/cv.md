@@ -48,6 +48,7 @@ Skills
 
 Conferences & Summer Schools
 ======
+* 03/2026: 21st International Conference on Computer Vision Theory and Applications (VISAPP), Marbella, Spain
 * 09/2024: 1st International Conference on AI in Healthcare (AIiH), Swansea, United Kingdom
 * 08/2023: Mediterranean Machine Learning Summer School by Google DeepMind, Thessaloniki, Greece
 * 04/2019: 11th Conference of Electrical & Computer Engineering Students, Thessaloniki, Greece			
