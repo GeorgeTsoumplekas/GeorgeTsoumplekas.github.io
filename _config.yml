@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Georgios (Yorgos) Tsoumplekas"
+title                    : "Georgios (Giorgos) Tsoumplekas"
 title_separator          : "-"
-name                     : &name "Georgios (Yorgos) Tsoumplekas"
+name                     : &name "Georgios (Giorgos) Tsoumplekas"
 description              : &description "Researcher at Kingston University"
 url                      : https://GeorgeTsoumplekas.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "GeorgeTsoumplekas/GeorgeTsoumplekas.github.io"
 author:
   # Biographic information
   avatar           : "profile.jpg"
-  name             : "Georgios (Yorgos) Tsoumplekas"
+  name             : "Georgios (Giorgos) Tsoumplekas"
   pronouns         : # example: "she/her"  
   bio              : "Researcher at Kingston University"
   location         : "London, UK"
