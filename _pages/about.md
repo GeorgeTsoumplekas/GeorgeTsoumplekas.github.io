@@ -14,7 +14,7 @@ I am broadly interested in machine learning and particularly in generative AI, f
 
 ### News
 * \[04/2026\]: Our paper on cooperative UAV search and rescue using multi-agent reinforcement learning in simulated wildfire environments has been accepted at the 2026 International Conference on Unmanned Aircraft Systems ([ICUAS 2026](https://uasconferences.com/2026_icuas/)).
-* \[04/2026\]: Our paper on training-free multi-concept LoRA composition based on prompt-aware weighting has been accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition ([FG 2026](https://fg2026.ieee-biometrics.org/)).
+* \[04/2026\]: Our [paper](https://arxiv.org/abs/2606.03792) on training-free multi-concept LoRA composition based on prompt-aware weighting has been accepted at the 20th IEEE International Conference on Automatic Face and Gesture Recognition ([FG 2026](https://fg2026.ieee-biometrics.org/)).
 * \[02/2026\]: Our paper on generating image captions to improve user-level mental health modeling has been accepted for an oral presentation at the 15th Language Resources and Evaluation Conference ([LREC 2026](https://lrec2026.info/)).
 * \[12/2025\]: I will attend the International Conference on Computer Vision Theory and Applications ([VISAPP 2026](https://visapp.scitevents.org/)) where I will present our [paper](https://www.scitepress.org/Papers/2026/143974/143974.pdf) on plant leaf generation using diffusion models. See you in Marbella!
 * \[10/2025\]: I am joining Kingston University as a researcher focusing on Generative AI and diffusion models for multi-concept customisation. Feel free to reach me if you are working on these topics.
