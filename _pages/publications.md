@@ -19,6 +19,7 @@ Journal Publications
 Conference Publications
 ------------
 
+- **[Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting](https://ieeexplore.ieee.org/abstract/document/11557018)** <br> **Georgios Tsoumplekas**, Stella Bounareli, Vasileios Argyriou <br> <em> 2026 IEEE 20th International Conference on Automatic Face and Gesture Recognition (FG) </em>
 - **[Dual-Arm Cloth Unfolding via a Two-Stage Perception and Deep Reinforcement Learning Approach](https://ieeexplore.ieee.org/abstract/document/11480355)** <br> Mengyuan Zhang, **Georgios Tsoumplekas**, Yannis Spyridis, Vasileios Argyriou <br> <em> 2026 12th International Conference on Automation, Robotics and Applications (ICARA) </em>
 - **[ControlNet-Guided Diffusion for Realistic Plant Leaf Generation](https://www.scitepress.org/Papers/2026/143974/143974.pdf)** <br> **Georgios Tsoumplekas**, Mia Pham, Yannis Spyridis, Thomas Lagkas, Georgios Th Papadopoulos, Panagiotis Sarigiannidis, Vasileios Argyriou <br> <em> 21st International Conference on Computer Vision Theory and Applications (VISAPP), 2026 </em>
 - **[MemoryINP: Memory Enhanced Neural Processes for Understanding-Based Informed Meta-Learning](https://ieeexplore.ieee.org/abstract/document/11279273)** <br> **Georgios Tsoumplekas**, Nikolaos Ntampakis, Christos Vasilakis, Petros Papadopoulos, Panagiotis Sarigiannidis, Vasileios Argyriou <br> <em> 2025 IEEE International Conference on Cyber Humanities (IEEE-CH) </em>
